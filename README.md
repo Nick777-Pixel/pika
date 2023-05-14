@@ -1,4 +1,4 @@
-NOTE: This repo contains free version features.
+NOTE: This repo contains free version features
 
 ![image](https://user-images.githubusercontent.com/14031295/170217467-01249753-6213-40c1-87b6-c39aa762f6cf.png)
 

@@ -16,9 +16,9 @@ function MyApp({ Component, pageProps }) {
           name="description"
           content="Quickly generate browser mockups and screenshots with Pika, a free and open-source app. You can add gradient backgrounds, add browser frame,rounded corners and more."
         />
-        <link rel="canonical" href="https://pika.rishimohan.me" />
+        <link rel="canonical" href="https://pikapic.vercel.app" />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://pika.rishimohan.me" />
+        <meta property="og:url" content="https://pikapic.vercel.app" />
         <meta
           property="og:title"
           content="Pika – Create screenshots and browser mockups quickly"
@@ -29,10 +29,10 @@ function MyApp({ Component, pageProps }) {
         />
         <meta
           property="og:image"
-          content="https://pika.rishimohan.me/meta-image.png"
+          content="https://pikapic.vercel.app/meta-image.png"
         />
         <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:url" content="https://pika.rishimohan.me" />
+        <meta property="twitter:url" content="https://pikapic.vercel.app" />
         <meta
           property="twitter:title"
           content="Pika – Create screenshots and browser mockups quickly"
